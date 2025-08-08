@@ -1,5 +1,4 @@
 /// NAME: omar ashraf mohamed    ID:20235021///
-/// NAME: Ganna mohamed          ID:20236024///
 
 #include <iostream>
 #include <cstring>
@@ -122,7 +121,7 @@ int main()
                 Currentpage=Forward.pop();  // pop the top of the url from forward and set it as current page
                 }
         }else {
-                cout << "Invalid command: " << commnd[j] << " — Skipping.\n";  // for handling incorrect command
+                cout << "Invalid command: " << commnd[j] << " â€” Skipping.\n";  // for handling incorrect command
         }
 
         cout << " === The current page is : ===\n " << Currentpage << endl;  // display the current page
@@ -147,3 +146,4 @@ int main()
 
     return 0;
 }
+
