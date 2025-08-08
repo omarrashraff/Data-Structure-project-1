@@ -1,5 +1,5 @@
 /// NAME: omar ashraf mohamed    ID:20235021///
-/// NAME: Ganna mohamed          ID:20236024///
+
 
 #include <iostream>
 #include <string>
@@ -264,3 +264,4 @@ int main()
 
     return 0 ;
 }
+
